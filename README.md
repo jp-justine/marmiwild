@@ -1,1 +1,1 @@
-# marmiwild workshop MVC PDO
+# marmiwild workshop
